@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VJoshi611" alt="Git Stats" /></a> </p>
+</a> </p>
 <h6 align="left">🏅 I recently completed my BIG DATA studies from iNeuron.ai</br>
 🎓 I have completed my BTech from Shivaji University</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in Data Science.</br>
@@ -66,13 +66,3 @@
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJoshi611&hide=java,html,css&theme=tokyonight)](https://github.com/VJoshi611/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VJoshi611&show_icons=true&locale=en" alt="VJoshi611" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VJoshi611&&hide=java,html,css&theme=radical" alt="VJoshi611" /></p>
