@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Joshi</h1>
 <h3 align="center">I'm a Data Science Enthusiast👨‍💻</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalsingh17&label=Profile%20views&color=0e75b6&style=flat" alt="Git Stats" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=VJoshi611&label=Profile%20views&color=0e75b6&style=flat" alt="Git Stats" /> </p>
 
 <br>
 <h2 align="left">🚀 Connect with me:</h3>
