@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalsingh17" alt="Git Stats" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VJoshi611" alt="Git Stats" /></a> </p>
 <h6 align="left">🏅 I recently completed my BIG DATA studies from iNeuron.ai</br>
 🎓 I have completed my BTech from Shivaji University</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in Data Science.</br>
