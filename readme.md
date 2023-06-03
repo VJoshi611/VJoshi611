@@ -12,8 +12,8 @@
 
 </a> </p>
 <h6 align="left"> 🎓 I have completed my BTech CSE from Shivaji University</br>
-⏳ I am constantly learning and keep myself updated with the latest technologies in Data Science, BIG DATA.</br>
-🤔 My interests are in Data Science, Big Data based Systems.</br>
+⏳ I am constantly learning and keep myself updated with the latest technologies in BIG DATA.</br>
+🤔 My interests are in Big Data and Data Science based Systems.</br>
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via vishaljoshi9675@gmail.com to reach me.</br>
 
