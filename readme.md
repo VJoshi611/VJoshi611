@@ -31,21 +31,13 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
   
- <h4 align="left">ML/DL:</h4>
+<h4 align="left">Python Libraries: </h4>
 <p align="left">
 <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> </a>
- <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-   <a href="https://spark.apache.org/" target="_blank"> <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="pyspark" width="40" height="40"/> </a>
-  <a href="https://www.nltk.org/" target="_blank"> <img src="https://miro.medium.com/max/1184/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40"/> </a>
-<a href="https://www.scipy.org/" target="_blank"> <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="tensorflow" width="40" height="40"/> </a>
-  
-  <h4 align="left">Frameworks:</h4>
-<p align="left"> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="pyspark" width="40" height="40"/> </a>
+   
  <h4 align="left">Clouds:</h4>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
