@@ -28,8 +28,6 @@
 <h4 align="left">Databases:</h4>
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
   
 <h4 align="left">Python Libraries: </h4>
 <p align="left">
@@ -38,20 +36,14 @@
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="pyspark" width="40" height="40"/> </a>
    
- <h4 align="left">Clouds:</h4>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-
-
 <h4 align="left">Big Data:</h4>
 <p align="left">
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>  
-<a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
   
 <h4 align="left">Softwares:</h4>
 <p align="left"> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.anaconda.com/" target="_blank"> <img src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png" alt="anaconda" width="40" height="40"/> </a>
+ <a href="https://www.anaconda.com/" target="_blank"> <img src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png" alt="anaconda" width="40" height="40"/> </a>
   
  <h4 align="left">Web Development:</h4>
 <p align="left">
