@@ -12,7 +12,7 @@
 
 </a> </p>
 <h6 align="left"> 🎓 I have completed my BTech CSE from Shivaji University</br>
-⏳ I am constantly learning and keep myself updated with the latest technologies in DATA SCIENCE.</br>
+⏳ I am constantly learning and keep myself updated with the latest technologies in Java and Data Science.</br>
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via vishaljoshi9675@gmail.com to reach me.</br>
 
