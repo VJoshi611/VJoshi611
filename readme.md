@@ -21,27 +21,52 @@
 
 <h4 align="left">🌱 About Me:</h4>
 <ul>
-  <li>⏳ I am constantly learning and keep myself updated with the latest technologies in AI and Data Science.</li>
+  <li>⏳ I am constantly learning and keeping myself updated with the latest technologies in AI, Data Science, and Data Engineering.</li>
   <li>💬 Ask me about anything, I am happy to help.</li>
   <li>📫 You can reach me via email at <a href="mailto:vishaljoshi9675@gmail.com">vishaljoshi9675@gmail.com</a>.</li>
 </ul>
 
 ---
 
-<h4 align="left">💻 Languages:</h4>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
+<h4 align="left">🔬 Data Science & Machine Learning:</h4>
+<p align="left">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/logo/logo-icon.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
 </p>
 
-<h4 align="left">🗄️ Databases:</h4>
+<h4 align="left">📊 Data Visualization:</h4>
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/>
+  </a>
+   <a href="https://matplotlib.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+</p>
+
+<h4 align="left">🗄️ Databases & Data Engineering:</h4>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -52,9 +77,21 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  <a href="https://docs.microsoft.com/en-us/sql/t-sql" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TSQL.svg/1200px-TSQL.svg.png" alt="T-SQL" width="40" height="40"/>
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="40" height="40"/>
+  </a>
+  <a href="https://hive.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Apache Hive" width="40" height="40"/>
+  </a>
 </p>
 
-<h4 align="left">🛠️ Softwares:</h4>
+<h4 align="left">🛠️ Tools & Softwares:</h4>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -64,6 +101,9 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   </a>
 </p>
 
@@ -92,15 +132,6 @@
 ---
 
 <h4 align="left">📊 GitHub Stats:</h4>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJoshi611&hide=java,html,css&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VJoshi611&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VJoshi611&theme=radical" alt="GitHub Streak" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VJoshi611&show_icons=true&locale=en" alt="VJoshi611" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VJoshi611&theme=radical" alt="VJoshi611" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJoshi611&hide=java,html,css&theme=tokyonight)](https://github.com/VJoshi611/github-readme-stats)
