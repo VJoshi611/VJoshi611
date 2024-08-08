@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself Vishal Joshi. Currently I'm Doing my PD-DAC Course From CDAC Sunbeam Pune.</h1>
+<h1 align="center">Hi 👋, Myself Vishal Joshi. Currently I'm working in Data & Analytics Domain at Sonata Software Ltd, Bangalore.</h1>
 <h3 align="center">A Passionate Tech Enthusiast 👨‍💻</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VJoshi611&label=Profile%20views&color=0e75b6&style=flat" alt="Git Stats" /> </p>
 
