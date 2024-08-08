@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, Myself Vishal Joshi. Currently I'm working in Data & Analytics Domain at Sonata Software Ltd, Bangalore.</h1>
+<h1 align="center">Hi 👋, I'm Vishal Joshi. Currently I'm working in Data & Analytics Domain at Sonata Software Ltd, Bangalore</h1>
 <h3 align="center">A Passionate Tech Enthusiast 👨‍💻</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VJoshi611&label=Profile%20views&color=0e75b6&style=flat" alt="Git Stats" /> </p>
 
 <br>
 <h2 align="left">🚀 Connect with me:</h3>
 <p align="center">
-<a href="https://www.hackerrank.com/vishaljoshi9675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="[HackerRank](https://www.hackerrank.com/vishaljoshi9675)" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishaljoshi06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[LinkedIn](https://www.linkedin.com/in/vishaljoshi06/)" height="30" width="40" /></a>
+<a href="https://x.com/Vi_Shall_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Twitter](https://x.com/Vi_Shall_)" height="30" width="40" /></a>
+
 </p>
 <br>
 
