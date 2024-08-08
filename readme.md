@@ -17,8 +17,8 @@
 <br>
 
 </a> </p>
-<h6 align="left"> 🎓 I have completed my BTech CSE from Shivaji University</br>
-⏳ I am constantly learning and keep myself updated with the latest technologies in Java and Data Science.</br>
+<h6 align="left">
+⏳ I am constantly learning and keep myself updated with the latest technologies in AI and Data Science.</br>
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via vishaljoshi9675@gmail.com to reach me.</br>
 
@@ -26,15 +26,23 @@
 
 <h4 align="left">Languages:</h4>
 <p align="left"> 
-<a href="https://https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   
-<h4 align="left">Databases:</h4>
+
+ <h4 align="left">Databases:</h4>
 <p align="left">
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="ms-sql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   
+ 
   
 <h4 align="left">Softwares:</h4>
 <p align="left"> 
