@@ -40,7 +40,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo.svg/1200px-Scikit_learn_logo.svg.png" alt="scikit-learn" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
@@ -52,9 +52,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/logo/logo-icon.svg" alt="Seaborn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/logos/seaborn-horizontal.svg" alt="Seaborn" width="40" height="40"/>
   </a>
 </p>
+
+
 
 <h4 align="left">📊 Data Visualization:</h4>
 <p align="left">
