@@ -136,4 +136,3 @@
 <h4 align="left">📊 GitHub Stats:</h4>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VJoshi611&show_icons=true&locale=en" alt="VJoshi611" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VJoshi611&theme=radical" alt="VJoshi611" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJoshi611&hide=java,html,css&theme=tokyonight)](https://github.com/VJoshi611/github-readme-stats)
