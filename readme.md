@@ -50,10 +50,6 @@
   </a>
   <a href="https://matplotlib.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/logos/seaborn-horizontal.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
 </p>
 
 
