@@ -21,7 +21,7 @@
 
 <h4 align="left">🌱 About Me:</h4>
 <ul>
-  <li>⏳ I am constantly learning and keeping myself updated with the latest technologies in AI, Data Science, and Data Engineering.</li>
+  <li>⏳ I am constantly learning and keeping myself updated with the latest technologies in AI, Data Science, and Finance.</li>
   <li>💬 Ask me about anything, I am happy to help.</li>
   <li>📫 You can reach me via email at <a href="mailto:vishaljoshi9675@gmail.com">vishaljoshi9675@gmail.com</a>.</li>
 </ul>
