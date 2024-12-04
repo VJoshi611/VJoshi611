@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Joshi</h1>
-<h3 align="center">A Passionate Tech Enthusiast 👨‍💻 | Data & Analytics Domain at Sonata Software Ltd, Bangalore</h3>
+<h3 align="center">A Passionate Tech Enthusiast 👨‍💻 | Data Analyst at Sonata Software Ltd, Bangalore</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=VJoshi611&label=Profile%20views&color=0e75b6&style=flat" alt="Git Stats" /> 
